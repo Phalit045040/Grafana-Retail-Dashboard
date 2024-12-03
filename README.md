@@ -6,7 +6,7 @@ This dashboard is created on Grafana with a Kaggle dataset streamed via InfluxDB
 
 ## Contributing
 
-This project is the result of a collaborative effort between Himanshi Saxena (https://github.com/045019) and Jasleen Kaur Chadha (https://github.com/Jasleen045023), with valuable guidance from Prof. Ashok Harnal. 
+This project is the result of a collaborative effort between [Himanshi Saxena](https://github.com/045019), [Jasleen Kaur Chadha](https://github.com/Jasleen045023) and me, with valuable guidance from Prof. Ashok Harnal. 
 
 
 
@@ -55,14 +55,14 @@ The following are the Tag keys:
 * `Shipping_Method`
 * `Payment_Method`
 * `Order_Status`
+* `Transaction_ID`
+* `Customer_ID`
+* `Zipcode`
 * `Ratings`
 
 
 
 The following are the Field keys:
-* `Transaction_ID`
-* `Customer_ID`
-* `Zipcode`
 * `Total_Purchases`
 * `Amount`
 * `Total_Amount`
